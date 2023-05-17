@@ -19,14 +19,12 @@
 ```
 <img align="right" alt="img" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/img1.png" width="50%" height="auto" />
 <h3>Programming languages...</h3>
-
- ```python
-    print('python');
-  ```
-  ```javascript
-    console.log('Javascript');
-  ```
- ```java
-    System.out.print('Java');
-  ```
-   <h3>Frameworks...</h3>
+<ul>
+  <li >HTML <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></li>
+  <li>Css</li>
+  <li>Javascript</li>
+  <li>Java</li>
+  <li>Python</li>
+</ul>
+ 
+<h3>Frameworks...</h3>
