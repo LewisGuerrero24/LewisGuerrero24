@@ -20,11 +20,11 @@
 <img align="right" alt="img" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/img1.png" width="50%" height="auto" />
 <h3>Programming languages...</h3>
 <ul>
-  <li >HTML <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></li>
-  <li>Css</li>
-  <li>Javascript</li>
-  <li>Java</li>
-  <li>Python</li>
+  <li >HTML <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/html.png"></li>
+  <li>Css <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/css-3.png"></li>
+  <li>Javascript <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/js.png"></li>
+  <li>Java <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/java.png"></li>
+  <li>Python <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/python.png"></li>
 </ul>
  
 <h3>Frameworks...</h3>
