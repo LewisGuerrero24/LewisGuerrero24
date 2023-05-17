@@ -5,6 +5,10 @@
   <p>Student of Systems Engineering at <a href="https://www.uts.edu.co/sitio/">Technological University of Santander</a></p>
   <h3>More information about me...</h3>
   
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lewisguerrero20@gmail.com)
+  
   ```javascript
   const Data = {
     Name: Lewis Aramis Manzano Guerrero,
