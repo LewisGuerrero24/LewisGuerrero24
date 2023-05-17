@@ -1,4 +1,5 @@
  <h1 align="center">Hi! I'm Lewis</h1>
+ 
  <p align="center">
 </p>
   <p>Student of Systems Engineering at <a href="https://www.uts.edu.co/sitio/">Technological University of Santander</a></p>
@@ -16,6 +17,7 @@
     city: Bucaramanga,
   }
 ```
+<img align="right" alt="img" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/img1.png" width="50%" height="auto" />
 <h3>Programming languages...</h3>
 
  ```python
