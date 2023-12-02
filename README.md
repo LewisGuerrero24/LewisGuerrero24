@@ -30,5 +30,5 @@
 <h3>Frameworks...</h3>
 <ul>
  <li >Flet <img width="20px" src="https://github.com/LewisGuerrero24/LewisGuerrero24/blob/main/flet.png"></li>
- <li >Django </li>
+ <li >Spring Boot </li>
 </ul>
